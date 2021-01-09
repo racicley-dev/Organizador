@@ -1,0 +1,7 @@
+{
+  "name": "Pilastra_Eventos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
